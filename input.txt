@@ -1,0 +1,16 @@
+par
+para
+pare
+pera
+
+bom
+bum
+um
+
+se
+senao
+entao
+
+<S>:a<S>|e<S>|i<A>|o<A>|u<A>
+<A>:a<A>|e<A>|i<A>|o<B>|u<B>|&
+<B>:a<A>|&
